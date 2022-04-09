@@ -1,0 +1,24 @@
+{
+  "courses": [
+    {
+      "id": "1",
+      "name": "Kiến Thức Nhập Môn IT",
+      "description": "Để có cái nhìn tổng quan về ngành IT - Lập trình web các bạn nên xem các videos tại khóa này trước nhé"
+    },
+    {
+      "name": "HTML, CSS từ Zero đến Hero\n",
+      "description": "Trong khóa này chúng ta sẽ cùng nhau xây dựng giao diện 2 trang web là The Band & Shopee.",
+      "id": "2"
+    },
+    {
+      "name": "Responsive Với Grid System",
+      "description": "Trong khóa này chúng ta sẽ học về cách xây dựng giao diện web responsive với Grid System, tương tự Bootstrap 4.",
+      "id": "3"
+    },
+    {
+      "name": "Node & ExpressJS",
+      "description": "Học Back-end với Node & ExpressJS framework, hiểu các khái niệm khi làm Back-end và xây dựng RESTful API cho trang web.",
+      "id": "7"
+    }
+  ]
+}
